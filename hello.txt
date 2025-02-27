@@ -1,3 +1,7 @@
 edit
 edit #2
+<<<<<<< HEAD
 edited offline
+=======
+edited online
+>>>>>>> 6dc90dfc26b3f5cd28e98b1e31eac7bb0441774b
